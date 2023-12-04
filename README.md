@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full stack, react DSA and c++**
 
-- 💬 Ask me about **web development, java and js**
+- 💬 Ask me about **web development, java , js HTML & CSS **
 
 - 📫 How to reach me **safwansayyed78@gmail.com**
 
