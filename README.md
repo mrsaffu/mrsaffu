@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsaffu&label=Profile%20views&color=0e75b6&style=flat" alt="mrsaffu" /> </p>
 
-- 🌱 I’m currently learning **full stack, react DSA and c++**
+- 🌱 I’m currently learning **Mern full stack, MongoDB, JavaScript DSA and ReactJs**
 
 - 💬 Ask me about **web development, java , js HTML & CSS **
 
