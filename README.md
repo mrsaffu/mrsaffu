@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safwan Ahmad</h1>
 <h3 align="center">i am coding enthusiast and i am always ready to face any challenging projects..</h3>
-<img align="right" width="400 alt="coding" src="github gif profile">
+<img align="right" width="400 alt="coding" src="[github gif profile](https://dribbble.com/shots/1343921-Developers-illustration-GIF/attachments/8771215?mode=media)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsaffu&label=Profile%20views&color=0e75b6&style=flat" alt="mrsaffu" /> </p>
 
