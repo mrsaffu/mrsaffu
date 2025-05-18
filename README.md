@@ -11,8 +11,10 @@
 <br>
 <p><p/>
 
-🔭 I'm familiar with: **MERN Stack|Web-development|Java  
-💬 Ask me about **HTML|JavaScript|ReactJs|MongoDB|Express|Node.js**  
+
+
+🔭 I'm familiar with: MERN Stack|Web-development|Java  
+💬 Ask me about: HTML|JavaScript|ReactJs|MongoDB|Express|Node.js 
 📫 How to reach me: **ahmadsafwan034@gmail.com**
 
 
