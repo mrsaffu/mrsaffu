@@ -42,13 +42,39 @@
 
 ---
 
-### Selected Work
-
-• Gamified Employee Induction LMS (SCORM 1.2)  
-• School Management System (MERN)  
-• Bus Booking System API (Dockerized + AWS EC2)
+### What I Do
+- Build scalable full-stack web applications
+- Develop REST APIs with Node.js and Express
+- Create responsive UI using React.js
+- Optimize performance using best practices
 
 ---
+
+
+### Featured Projects
+
+### 🏫 Al-Qalam Academy – School Management System
+- Full-stack MERN application with multiple modules (Faculty, Events, etc.)
+- Responsive UI with reusable components and dynamic routing
+- Backend with REST APIs and MongoDB Atlas  
+🔗 Live Demo: https://al-qalam-academy.vercel.app/
+
+---
+
+### 🚌 Bus Booking System API
+- Backend system with JWT authentication and role-based access
+- Features: User booking, admin management, route handling  
+🔗 API Docs / Demo: https://github.com/mrsaffu/bus-booking-api
+
+---
+
+### 🎮 Gamified Learning Player
+- Interactive quiz-based learning system
+- Designed for LMS integration and engaging learning experience  
+🔗 Live Demo: https://github.com/mrsaffu/Gamified-Employee-Induction-LMS-SCORM-1.2-Compliant-
+
+---
+
 
 
 ## GitHub Analytics
@@ -72,17 +98,15 @@
 
 <p align="center">
 
-<a href="mailto:ahmadsafwan034@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://linkedin.com/in/mrrsaffu">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://mrsaffu.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <a href="mailto:ahmadsafwan034@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://linkedin.com/in/mrrsaffu">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://mrsaffu.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
 </p>
 
