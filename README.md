@@ -104,7 +104,7 @@
   <a href="https://linkedin.com/in/mrrsaffu">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://mrsaffu.vercel.app">
+  <a href="https://saf-kode.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
